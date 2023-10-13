@@ -1,6 +1,6 @@
 ## YT Aggregator
 
-A web app that gets top 12 trending videos across multiple countries. Uk only for now, more countries soon 🤞🏽
+A web app that gets top trending videos across multiple countries, up to 50.
 
 ### How to Set Up a YouTube API Key
 
